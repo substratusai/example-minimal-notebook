@@ -1,0 +1,5 @@
+apiVersion: substratus.ai/v1
+kind: Notebook
+metadata:
+  name: example
+spec: {}
